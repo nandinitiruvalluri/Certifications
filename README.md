@@ -1,5 +1,4 @@
-# Certifications
-# Certifications Portfolio
+# Certification
 
 Welcome to my certifications portfolio. These are official certifications I’ve earned.
 
